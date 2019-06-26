@@ -1,11 +1,3 @@
----
-layout: post
-title: 자바 Quartz 스케줄러 
-date: 2019-06-18 10:00:00
-categories: others
-comments: true
----
-
 자바 Quartz 스케줄러
 ====================================
 
